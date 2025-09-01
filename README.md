@@ -18,8 +18,25 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
+# USECASE DIAGRAM:
+<img width="1016" height="541" alt="Screenshot 2025-09-01 112636" src="https://github.com/user-attachments/assets/809f3038-0870-4bb6-997f-51d06b7c93ed" />
+
+# CLASS DIAGRAM:
+<img width="812" height="699" alt="Screenshot 2025-09-01 112648" src="https://github.com/user-attachments/assets/6b819fb2-49e4-4714-aea8-1a42d12adf39" />
+
+# ACTIVITY DIAGRAM:
+<img width="680" height="611" alt="Screenshot 2025-09-01 112657" src="https://github.com/user-attachments/assets/44a2e0c2-9c04-46c9-8842-7ed9dd0e3dfb" />
+
+# COMMUNICATION DIAGRAM:
+<img width="989" height="641" alt="Screenshot 2025-09-01 112709" src="https://github.com/user-attachments/assets/af165319-3252-42e3-a153-6a530fccbd1c" />
 
 
+# SEQUENCE DIAGRAM:
+<img width="822" height="749" alt="Screenshot 2025-09-01 112718" src="https://github.com/user-attachments/assets/776d92ea-6bca-4006-ac6d-ee20189b9419" />
+
+
+# SEQUENCE DIAGRAM:
+<img width="426" height="668" alt="Screenshot 2025-09-01 112726" src="https://github.com/user-attachments/assets/2d584f1a-8dbe-423a-b22b-5b127fc65a17" />
 
 ### RESULT:
 Thus the project to develop e-ticketing system was developed using Star UML Software.
